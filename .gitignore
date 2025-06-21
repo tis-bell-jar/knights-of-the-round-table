@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python byte-code
+__pycache__/
+*.py[cod]
+*.so
+
+# SQLite database
+instance/notes.db
+
+# IDE config
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
